@@ -10,8 +10,8 @@ body {background:#fafafa;}
 a {text-decoration:none;}
 a:hover {text-decoration:underline;}
 
-/* шапка сайта */
-#header {background:url(bg_top.jpg);height:112px;}
+/* пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ */
+#header {background:url(/index_files/footer.jpg);height:112px;}
 #header .h1000 {width:1000px;margin:0 auto;}
 #header .text {font-family:dincr;color:#fff;font-size:39px;line-height:35px;padding:16px 0 0 0;text-shadow: 2px 2px #000;}
 #header .text span {font-size: 67px;text-shadow: 2px 2px #000;}
@@ -21,7 +21,7 @@ a:hover {text-decoration:underline;}
 #header .contact button {font-size:21px;font-family:dincm;color:#fff;line-height:21px;vertical-align:top;width:278px;height:34px;background:none;cursor:pointer;}
 /* ------------ */
 
-/* Акция */
+/* пїЅпїЅпїЅпїЅпїЅ */
 #action {background:url(bg_action.jpg) no-repeat center 0;height:297px;}
 .a1000 {width:1000px;margin:0 auto;overflow:hidden;}
 
@@ -41,7 +41,7 @@ a:hover {text-decoration:underline;}
 #action .action_text .minus {background:url(econom.png) no-repeat 95px 0;height:45px;font-size:25px;color:#373737;padding:12px 0 0 0;}
 /* ------ */
 
-/* форма акции */
+/* пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ */
 #form_ua {background:url(form_ua.png) no-repeat center 0;height:160px;}
 #form_ua .fu1000 {width:1000px;margin:0 auto;padding:23px 0 0 0;}
 #form_ua .fu1000 .title {font-family:dincr;font-size:20px;color:#373737;float:left;padding: 0 15px 0 4px;height: 55px;line-height: 35px;}
@@ -51,7 +51,7 @@ a:hover {text-decoration:underline;}
 #form_img {width: 1000px;margin: 0 auto;overflow: hidden;padding: 40px 0 0 0;}
 /* ----------- */
 
-/* Каталог */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 #catalog {width:1000px;margin:0 auto;overflow:hidden;}
 #catalog .title {background:url(title_c.png) no-repeat center center;font-family:dincr;font-size:40px;text-align:center;color:#333;height:92px;line-height:92px;}
 
@@ -73,7 +73,7 @@ a:hover {text-decoration:underline;}
 #catalog .box_catalog .line_desc1.border,#catalog .box_catalog .line_desc2.border,#catalog .box_catalog .line_desc3.border,#catalog .box_catalog .button_c.border {border-left:1px solid #d5edf4;}
 /* -------- */
 
-/* Проблемы */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 #problems .title {font-size:35px;font-family:dincr;text-align:center;text-transform:uppercase;padding:80px 0 23px 0;}
 #problems .bg_problems {background:url(bg_problem.png);height:360px;}
 #problems .bg_problems .p1000 {width:1000px;margin:0 auto;padding:25px 0 0 0;overflow:hidden;}
@@ -83,7 +83,7 @@ a:hover {text-decoration:underline;}
 #problems .problem span  {text-align:center;font-family:dincm;font-size:18px;text-transform:uppercase;display:block;height:42px;}
 /* ------- */
 
-/* Плюсы */
+/* пїЅпїЅпїЅпїЅпїЅ */
 #pluses {background:url(bg_pluses.png);width:1000px;height:817px;padding:40px 0 0 0;margin:36px auto 0 auto;position:relative;}
 #pluses .title {background:url(title_p.png) no-repeat center center;font-size:35px;position:absolute;top:-21px;width:1000px;font-family:dincr;text-align:center;text-transform:uppercase;}
 #pluses .plus {width:444px;padding:0 23px 0 0;margin:0 16px 0 16px;background:url(plus_bg.png) no-repeat 0 bottom;height:200px;float:left;}
@@ -98,7 +98,7 @@ a:hover {text-decoration:underline;}
 #pluses .plus .message {padding:0 0 0 8px;}
 /* ----- */
 
-/* Форма */
+/* пїЅпїЅпїЅпїЅпїЅ */
 #form_free {background:url(form_fr.jpg);width:422px;height:268px;margin:46px auto 0 auto;padding:0 0 0 354px;}
 #form_free .title {font-family:dincr;font-size:34px;color:#fff;line-height:40px;padding:12px 0 14px 0;}
 #form_free .title span {font-family:dincm;font-size:37px;text-transform:uppercase;}
@@ -109,7 +109,7 @@ a:hover {text-decoration:underline;}
 #form_free a {background:url(button_fr.png);display:block;padding: 7px 0 0 41px;width: 205px;height:40px;font-family:dincm;font-size:25px;color:#000;text-transform:uppercase;}
 /* ---- */
 
-/* Работаем с кем */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ */
 #work_with {width:1000px;margin:0 auto;overflow:hidden;}
 #work_with .title {background:url(title_ww.png) no-repeat center center;font-size:35px;font-family:dincr;text-align:center;text-transform:uppercase;margin:60px 0 30px 0;}
 #work_with .box_ww {float:left;text-align:center;width:316px;padding:0 26px 31px 0;}
@@ -118,7 +118,7 @@ a:hover {text-decoration:underline;}
 #work_with .box_ww div {background:url(ico_ww.png) no-repeat;height:32px;padding:0 0 0 44px;font-size:22px;font-family:dindr;display:inline-block;margin:8px 0 0 0;}
 /* -------------- */
 
-/* Производство */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 #production {width:1000px;margin:0 auto;padding:0 0 70px 0;}
 #production .title {background:url(title_pr.png) no-repeat center center;font-size:35px;font-family:dincr;text-align:center;text-transform:uppercase;margin:20px 0 40px 0;}
 
@@ -132,7 +132,7 @@ a:hover {text-decoration:underline;}
 .box_foto #pimg2 {padding:0 0 18px 0;}
 /* ------------- */
 
-/* Отзывы */
+/* пїЅпїЅпїЅпїЅпїЅпїЅ */
 #rewievs {width:1000px;margin:0 auto;overflow:hidden;}
 #rewievs .title {background:url(title_r.png) no-repeat center center;font-size:35px;font-family:dincr;text-align:center;text-transform:uppercase;margin:0 0 30px 0;}
 #rewievs .title div {background:url(rew_img1.png) no-repeat;height:47px;padding:0 0 0 60px;display:inline-block;}
@@ -140,7 +140,7 @@ a:hover {text-decoration:underline;}
 #rewievs img#last {margin:0;}
 /* ------ */
 
-/* как мы работаем */
+/* пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 #how_work {width:1000px;margin:0 auto;}
 #how_work .title {background:url(title_hw.png) no-repeat center center;font-size:35px;font-family:dincr;text-align:center;text-transform:uppercase;margin:70px 0 50px 0;}
 #how_work .hw_ic {background:url(how_work.png) no-repeat center 0;position:relative;padding:62px 0 0 0;height:75px;}
@@ -152,7 +152,7 @@ a:hover {text-decoration:underline;}
 #how_work .hw5 {right:0;}
 /* ------------- */
 
-/* футер */
+/* пїЅпїЅпїЅпїЅпїЅ */
 #footer {background:url(footer.jpg) no-repeat center 0;height:240px;margin:44px 0 0 0;}
 #footer .ft1000 {margin:0 auto;width:632px;}
 #footer .title {color:#fff;text-align:center;font-family:dincr;font-size:34px;line-height:40px;padding:8px 0 8px 0;}
